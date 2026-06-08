@@ -1,14 +1,3 @@
-Advanced Git and GitHub
-GIT-2-JAN-26
-My Courses
-Advanced Git and GitHub
-Course Content
-My Stats
-Peers
-Github Actions
-Advanced GitHub Features & Automation
-
-
 name: Deploy to GitHub Pages
 
 on:
